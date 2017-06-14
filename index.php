@@ -13,7 +13,7 @@ $string = "baba";
 $string = str_split($string);
 
 echo "/*<br /><br />";
-for($i=0;$i<$font["spalten"];$i++){
+for($i=0;$i<$font["zeilen"];$i++){
     foreach($string as $letter){
         echo $font[$letter][$i]."&nbsp;";
     }
