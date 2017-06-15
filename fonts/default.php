@@ -1,6 +1,6 @@
 <?php 
 $font = array(
-    "spalten" => 5,
+    "zeilen" => 5,
     "a" => array(
         "&nbsp;&nbsp;&nbsp;&nbsp;AA&nbsp;&nbsp;&nbsp;&nbsp;",
         "&nbsp;&nbsp;&nbsp;A&nbsp;&nbsp;A&nbsp;&nbsp;&nbsp;",
